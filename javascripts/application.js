@@ -14,6 +14,8 @@ window.addEventListener('load', function() {
       { name: 'colors', items: [ 'TextColor', 'BGColor' ] },
       { name: 'tools', items: [ 'Maximize', 'ShowBlocks' ] },
       { name: 'about', items: [ 'About' ] }
-    ]
+    ],
+    height: "500px",
+    width: "100%"
   });
 });
